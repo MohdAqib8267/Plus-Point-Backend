@@ -1,0 +1,86 @@
+generator client{
+    provider = "prisma-client-js"
+}
+
+datasource db{
+
+    provider = "mongodb"
+    url=env("DATABASE_URL")
+
+}
+
+// experties
+
+model Experties{
+    id String @id @default(auto()) @map("_id") @db.ObjectId
+    image String
+    title String
+    description String
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt 
+} 
+
+model whatWeUse{
+    id String @id @default(auto()) @map("_id") @db.ObjectId
+    image String
+    title String
+    description String
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt 
+}
+
+//our team
+model ourTeam{
+     id String @id @default(auto()) @map("_id") @db.ObjectId
+     img String
+     name String
+     post String
+     desc String
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt 
+}
+//mission-vission
+model missionVision{
+    id String @id @default(auto()) @map("_id") @db.ObjectId
+    img String
+    missionImg String
+    visionImg String  
+    missionTitle String
+    visionTitle String
+    missionDesc String
+    visionDesc   String
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt      
+}   
+
+//Home News
+model homeNews{
+     id String @id @default(auto()) @map("_id") @db.ObjectId
+     img String
+     title String  
+     desc String
+    createdAt DateTime? @default(now())
+    updatedAt DateTime? @updatedAt 
+}
+
+//media
+model media{
+     id String @id @default(auto()) @map("_id") @db.ObjectId
+     col1 Json[]
+     col2 Json[]
+     col3 Json[]
+    createdAt DateTime? @default(now())
+    updatedAt DateTime? @updatedAt 
+}
+
+// blogs
+model blogs{
+     id String @id @default(auto()) @map("_id") @db.ObjectId
+     img String
+     title String
+     desc String
+     views Int
+     comments Int
+     createdAt DateTime? @default(now())
+    updatedAt DateTime? @updatedAt 
+}

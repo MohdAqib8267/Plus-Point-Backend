@@ -1,0 +1,100 @@
+[
+    {
+        "_id": { "$oid": "64392d39dfd90fb29e464fb7" },
+        "createdAt": { "$date": "2023-04-14T10:38:48.762Z" },
+        "updatedAt": { "$date": "2023-04-14T10:38:48.762Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Rajiv Agarwal",
+        "post": "MD, Chief Product Designer",
+        "desc": "A veteran of the industry, Rajiv Agarwal has been the torchbearer of this organization. Known for his impeccable market instincts, he has introduced industry trends that are now widely followed in the field. That’s not all; the beautiful design schemes offered by Plus Point have originated from the brains of the man himself. He knows how to give a ‘Plus Point’ to each and every product that we create for you."
+    },
+    {
+        "_id": { "$oid": "64392e0bdfd90fb29e464fbc" },
+        "createdAt": { "$date": "2023-04-14T10:42:19.231Z" },
+        "updatedAt": { "$date": "2023-04-14T10:42:19.231Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Niket Agarwal",
+        "post": "CEO",
+        "desc": "Niket Agarwal joined the organization as the Chief Executive Officer in 2015. Being a firm believer in the power of strong processes, he played an ever-significant role in streamlining the way an organization’s working to a level that was never heard of before, specifically in the hardware industry. Niket Agarwal has brought a plethora of exuberance to a team that is already passionate about providing the best."
+    },
+    {
+        "_id": { "$oid": "6439001c74446601d6fce96d" },
+       
+        "createdAt": { "$date": "2023-04-14T07:26:20.051Z" },
+        "updatedAt": { "$date": "2023-04-14T07:26:20.051Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Sheena Agarwal",
+        "post": "Digital Growth Strategist",
+        "desc": "Sheena Agarwal is spearheading the marketing forefront at Plus Point Locks. She is known for her creative and innovative marketing strategies, as well as her passion for helping the company achieve digital growth. She is also a strong advocate for diversity and inclusion in the workplace."
+    },
+    {
+        "_id": { "$oid": "64392e1edfd90fb29e464fbd" },
+        
+        "createdAt": { "$date": "2023-04-14T10:42:37.946Z" },
+        "updatedAt": { "$date": "2023-04-14T10:42:37.946Z" },
+    "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Amber Agarwal",
+        "post": "Dispatch Head",
+        "desc": "Amber Agarwal is responsible for overseeing the dispatch operations at Plus Point Locks. With a keen eye for logistics and a commitment to timely delivery, Amber ensures that every product reaches its destination efficiently. Her dedication to precision and efficiency has played a crucial role in maintaining high customer satisfaction."
+    },
+    {
+        "_id": { "$oid": "64392d67dfd90fb29e464fb8" },
+       
+        "createdAt": { "$date": "2023-04-14T10:39:35.044Z" },
+        "updatedAt": { "$date": "2023-04-14T10:39:35.044Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Yatish Mittal",
+        "post": "Surface Finish Specialist",
+        "desc": "Yatish Mittal is the go-to expert at Plus Point Locks when it comes to achieving impeccable surface finishes. With an extensive knowledge of materials and an artistic approach to surface treatment, Yatish ensures that every lock not only provides security but also boasts a visually appealing finish. His expertise adds the perfect touch to the aesthetics of our security products."
+    },
+    {
+        "_id": { "$oid": "64392e32dfd90fb29e464fbe" },
+     
+        "createdAt": { "$date": "2023-04-14T10:41:54.156Z" },
+        "updatedAt": { "$date": "2023-04-14T10:41:54.156Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Amit Agarwal",
+        "post": "Chief Production Officer",
+        "desc": "Amit Agarwal is the driving force behind Plus Point Locks' production line. He is a master of efficiency, always finding ways to streamline the process and get more locks out the door. Amit is also a stickler for quality, ensuring that every lock meets the company's exacting standards. His leadership has played a pivotal role in establishing Plus Point Locks as a leader in the security hardware industry."
+    },
+    {
+        "_id": { "$oid": "64392e46dfd90fb29e464fbf" },
+      
+        "createdAt": { "$date": "2023-04-14T10:42:58.826Z" },
+        "updatedAt": { "$date": "2023-04-14T10:42:58.826Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Vivek Goyal",
+        "post": "Ledger and Accounts Expert",
+        "desc": "Vivek Goyal is the meticulous expert managing the financial aspects of Plus Point Locks. With an eye for detail and a commitment to accuracy, he ensures that the company's financial records are impeccable. Vivek's expertise in ledger management and financial analysis plays a crucial role in the fiscal success of Plus Point Locks."
+    },
+    {
+        "_id": { "$oid": "64392e57dfd90fb29e464fc0" },
+       
+        "createdAt": { "$date": "2023-04-14T10:43:18.186Z" },
+        "updatedAt": { "$date": "2023-04-14T10:43:18.186Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Sanjay Mehdiratta",
+        "post": "Surface Finish Specialist",
+        "desc": "Sanjay Mehdiratta is a specialist in achieving flawless surface finishes at Plus Point Locks. With a deep understanding of surface treatment techniques and an eye for perfection, Sanjay ensures that each lock not only provides top-notch security but also boasts an exquisite finish. His expertise adds a touch of finesse to the overall quality of Plus Point Locks' products."
+    },
+    {
+        "_id": { "$oid": "64392e69dfd90fb29e464fc1" },
+       
+        "createdAt": { "$date": "2023-04-14T10:43:35.761Z" },
+        "updatedAt": { "$date": "2023-04-14T10:43:35.761Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Sagar Saxena",
+        "post": "Process and Delivery Expert",
+        "desc": "Sagar Saxena is the expert overseeing the efficient processing and timely delivery of products at Plus Point Locks. With a keen understanding of manufacturing processes and logistics, Sagar ensures that every product reaches its destination on time. His dedication to streamlined processes contributes significantly to the overall efficiency of Plus Point Locks' operations."
+    },
+    {
+        "_id": { "$oid": "643a30b60c4348510952923a" },
+       
+        "createdAt": { "$date": "2023-04-14T10:43:53.665Z" },
+        "updatedAt": { "$date": "2023-04-14T10:43:53.665Z" },
+        "img": "https://s3-alpha-sig.figma.com/img/0c10/0b25/4b38008e9cf036d986b9f9743b3118c8?Expires=1700438400&Signature=hdxTRilrh9xVuZsjy8el4-HD~NbVklvEC0y-4hKDjG83laJ3cMm1an5zcIxUpq11~QJOZ5CvPHvwATyhUFXi4bxkjtmdPy5zKlY~E~l8HhSsrnydwFpoSajymeE8gQWPzu9h9zxOUGIajTwn0lITmLbDkbqOdOLuRyG8J4Bp0urexiEhSRWazzEEBwosGR4jYCGi77vvqcrRLm1wgekhdrvCmBQIsXCqbikvhuzeCzlWA1mxc6B5nS4epY7zJtSpTHLmsw7tFBJbK5DfMPALSsiVjOO7QHxdi7bcK8j8LvSvazdjgZjwkwyxSdiEfSDZSjlfqobMxYjAQHsP2kznCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+        "name": "Kushagra Agarwal",
+        "post": "Daily Operations Specialist",
+        "desc": "Kushagra Agarwal is the specialist managing the day-to-day operations at Plus Point Locks. With a keen eye for detail and a commitment to efficiency, Kushagra ensures that daily operations run smoothly. His expertise in operational management contributes significantly to the overall success of Plus Point Locks in delivering high-quality security products."
+    }
+]
