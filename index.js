@@ -7,9 +7,10 @@ import { ourTeamRoute } from "./routes/ourTeamRoute.js";
 import { ourVision } from "./routes/missionVisionRoute.js";
 import { homeNewsRoute } from "./routes/homeNewsRoute.js";
 import { mediaRoute } from "./routes/mediaRoute.js";
+import { blogRouter } from "./routes/blogRoute.js";
 dotenv.config();
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;  
 
 
 const app = express();
@@ -30,3 +31,6 @@ app.use("/api/client",ourTeamRoute);
 app.use("/api/client",ourVision);
 app.use("/api/client",homeNewsRoute);
 app.use("/api/client",mediaRoute);
+
+// for blogs & bloginside page
+app.use("/api/client/blog",blogRouter); 
